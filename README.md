@@ -2,7 +2,7 @@
 
 https://www.coursera.org/specializations/machine-learning
 
-## Course 1 Machine Learning Foundations: A Case Study Approach
+## Course 1 Machine Learning Foundations
 https://www.coursera.org/learn/ml-foundations
 
 ## Course 2 Regression
