@@ -1,5 +1,5 @@
-# Machine Learning Specialization - University of Washington
-
+# Machine Learning Specialization 
+Provided by University of Washington
 https://www.coursera.org/specializations/machine-learning
 
 ## Course 1 Machine Learning Foundations
