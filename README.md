@@ -1,4 +1,4 @@
-# Machine Learning Specialization - University of Washington in Coursera
+# Machine Learning Specialization - University of Washington
 
 https://www.coursera.org/specializations/machine-learning
 
